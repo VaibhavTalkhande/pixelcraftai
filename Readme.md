@@ -5,6 +5,7 @@ techstacks used:
 2. Tailwind: The most popular CSS framework nowadays
 3. OpenAI's DALL-E model: A deep learning model that generates images from text input
 4. Cloudinary: A cloud-based image storage service
-![image](https://github.com/VaibhavTalkhande/pixelcraftai/assets/49303222/b4444c97-7a90-4c0d-9c6d-4c7126fd2fb3)
-![Screenshot (124)](https://github.com/VaibhavTalkhande/pixelcraftai/assets/49303222/ed6709f5-f884-43e8-9d50-48204a26528d)
-![Screenshot (125)](https://github.com/VaibhavTalkhande/pixelcraftai/assets/49303222/041c90c0-46d5-44e8-8576-72188d54f2cf)
+
+![Screenshot (134)](https://github.com/VaibhavTalkhande/pixelcraftai/assets/49303222/3e5bfcc8-f017-4256-80f6-e6038a5a73a7)
+
+![Screenshot (132)](https://github.com/VaibhavTalkhande/pixelcraftai/assets/49303222/6cf3796b-56e1-478b-b1e1-24dfefe6f217)
